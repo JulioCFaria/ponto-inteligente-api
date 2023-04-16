@@ -1,4 +1,4 @@
- package com.julio.pontointeligente;
+package com.julio.pontointeligente;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
